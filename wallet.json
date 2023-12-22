@@ -6,5 +6,9 @@
   {
     "wallet": "0xEe33Cca8F1b73b063031A38Fd995015013D61e95",
     "amount": 12000
+  },
+  {
+    "wallet": "0x2Ca5C5a12aE166BFc0a2971c1053401C89FB287F",
+    "amount": 6000
   }
 ]
