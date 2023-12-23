@@ -1,14 +1,30 @@
 [
   {
+    "wallet": "0x0000000000000000000000000000000000000000",
+    "amount": 1
+  },
+  {
+    "wallet": "0x000000000000000000000000000000000000dEaD",
+    "amount": 1
+  },
+  {
+    "wallet": "0x1bBC552c57F1dceCE6332FF2876A03eCCEdb7551",
+    "amount": 4000
+  },
+  {
+    "wallet": "0x06aA6a5e6778061C777fB7d66fEA43e55dcf2C0a",
+    "amount": 2000
+  },
+  {
     "wallet": "0x893d8A1508f1dbC6807C6d0c6A027751B9C4289E",
-    "amount": 5000
+    "amount": 100000
   },
   {
     "wallet": "0xEe33Cca8F1b73b063031A38Fd995015013D61e95",
     "amount": 12000
   },
   {
-    "wallet": "0x2Ca5C5a12aE166BFc0a2971c1053401C89FB287F",
-    "amount": 6000
+    "wallet": "0x30cA2E015f9672aF5Ea00DD2734d64e80703563B",
+    "amount": 5000
   }
 ]
