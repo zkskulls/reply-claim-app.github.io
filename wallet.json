@@ -83,6 +83,10 @@
     "wallet": "0x47410481b5196fed97b27155dbace4a83129eeb7",
     "amount": 16267
   },
+    {
+    "wallet": "0x893d8A1508f1dbC6807C6d0c6A027751B9C4289E",
+    "amount": 4310
+  },
   {
     "wallet": "0x799816d058d116bd18aa6e941bf1860158a43b0f",
     "amount": 873600
